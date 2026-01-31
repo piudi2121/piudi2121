@@ -4,9 +4,4 @@ Desenvolvedor backend Python e apaixonado pela matemática 🧮. Posto aqui meus
 
 - Desenvolvedor Backend Python usando Django e Flask
 - Amo memorizar tudo o que é possível (cartas, binários, números, textos, datas...)
-- Atualmente essas são minhas principais Habilidades:
-
-<img width='50' height='50' src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg'/>
-<img width='50' height='50' src='https://static.djangoproject.com/img/logos/django-logo-negative.svg' />
-<img width='50' height='50' src='https://www.vhv.rs/viewpic/TTbbxbJ_prog-flask-flask-python-icon-png-transparent-png/#'/>
-
+- Habilidades: Python, Django, Flask, Javascript, HTML, CSS, Git, MYSQL, Excel, React, Bootstrap
