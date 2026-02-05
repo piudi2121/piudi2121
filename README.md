@@ -3,4 +3,4 @@ Desenvolvedor backend Python e apaixonado por matemática. Posto aqui meus proje
 
 - Backend Python com Django e Flask.
 - Curioso por técnicas de memorização (cartas, binários, números, textos, datas…).
-- Habilidades: Python, Django, Flask, JavaScript, HTML, CSS, Git, MySQL, Excel, React, Bootstrap
+- Habilidades: Python, Django, Flask, JavaScript, HTML, CSS, Git, MySQL, Excel, Bootstrap
